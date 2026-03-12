@@ -133,8 +133,8 @@ export const SkillsInfo = [
       school: "New English High School and Junior College, Nagpur",
       date: " March 2021",
       grade: "88%",
-      desc: "I have completed my Master's Hsc from New English High School and Junior College, Nagpur. During my time at NEHS, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
-      degree: "SSC Exams",
+      desc: "I completed my Higher Secondary Certificate (HSC) from New English High School and Junior College, Nagpur. During this period, I built a strong academic foundation and developed analytical and problem-solving skills through my coursework. My studies helped me strengthen my understanding of core academic subjects and prepared me for pursuing higher education in the field of engineering and technology.",
+       degree: "SSC Exams",
     },
     {
       id: 1,
@@ -142,7 +142,7 @@ export const SkillsInfo = [
       school: "ST. George College jr/sr",
       date: "Feb 2023",
       grade: "76.2%",
-      desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+      desc: "I completed my Higher Secondary Certificate (HSC) from ST. George College Jr./Sr. in February 2023. During this period, I strengthened my academic foundation and developed analytical and problem-solving skills through my coursework. This stage of education prepared me for pursuing higher studies in computer science and engineering.",
       degree: "HSC Exams",
     }
   ];
