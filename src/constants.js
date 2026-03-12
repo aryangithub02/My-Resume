@@ -32,10 +32,10 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
-import aicareerLogo from './assets/tech_logo/imagecopy3.png';
-import nexoraLogo from './assets/tech_logo/imagecopy4.png';
-import visionaryLogo from './assets/tech_logo/imagecopy5.png';
-import ecommerceLogo from './assets/tech_logo/imagecopy6.png';
+import aicareerLogo from './assets/work_logo/imagecopy3.png';
+import nexoraLogo from './assets/work_logo/imagecopy4.png';
+import visionaryLogo from './assets/work_logo/imagecopy3.png';
+// ecommerceLogo was not used and its path incorrect, so removed
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
