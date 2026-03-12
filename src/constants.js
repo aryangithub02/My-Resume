@@ -34,7 +34,8 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 import aicareerLogo from './assets/work_logo/imagecopy3.png';
 import nexoraLogo from './assets/work_logo/imagecopy4.png';
-import visionaryLogo from './assets/work_logo/imagecopy3.png';
+import visionaryLogo from './assets/work_logo/visionary.png';
+import ecommerceLogo from './assets/work_logo/imagecopy6.png';
 // ecommerceLogo was not used and its path incorrect, so removed
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
@@ -181,7 +182,7 @@ export const SkillsInfo = [
       title: "E-Commerce Application",
       description:
         "A full-stack online shopping platform featuring product catalogs, shopping cart, user authentication, order management, and search/filter functionality.",
-      image: npmLogo,
+      image: ecommerceLogo,
       tags: ["React JS","Node.js","Express","MongoDB"],
       github: "https://github.com/aryangithub02/E-Commerce-App",
       webapp: "https://am-techstore.netlify.app/"
