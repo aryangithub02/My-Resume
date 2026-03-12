@@ -32,7 +32,10 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
-
+import aicareerLogo from './assets/tech_logo/imagecopy3.png';
+import nexoraLogo from './assets/tech_logo/imagecopy4.png';
+import visionaryLogo from './assets/tech_logo/imagecopy5.png';
+import ecommerceLogo from './assets/tech_logo/imagecopy6.png';
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
@@ -149,7 +152,7 @@ export const SkillsInfo = [
       title: "AI Career Coach",
       description:
         "An AI-based career guidance platform that helps students select career paths and improve employability. Features include personalized recommendations, resume analysis, skill gap detection, interview prep, and learning roadmaps.",
-      image: githubdetLogo,
+      image: aicareerLogo,
       tags: ["AI","React JS","Node.js","Tailwind CSS"],
       github: "https://github.com/aryangithub02/AI-Career-Coach",
       webapp: "https://aicareercoach-ijxq.vercel.app/"
@@ -159,17 +162,17 @@ export const SkillsInfo = [
       title: "Nexora – Social Media Platform",
       description:
         "A full-stack social networking app where users can create profiles, post content, follow others, and engage via likes and comments. Built with React front‑end and Node.js backend.",
-      image: csprepLogo,
+      image: nexoraLogo,
       tags: ["React JS","Node.js","MongoDB","Express"],
       github: "https://github.com/aryangithub02/Nexora",
-      webapp: "https://nexora-9vwj.vercel.app/"
+      webapp: "https://nexora-socailmedia-07.vercel.app/"
     },
     {
       id: 2,
       title: "Visionary – AI Desktop Assistant",
       description:
         "An AI automation agent capable of opening applications, accessing files, executing system commands, and responding to natural language instructions.",
-      image: movierecLogo,
+      image: visionaryLogo,
       tags: ["Electron","Python","AI","NLU"],
       github: "https://github.com/aryangithub02/Visionary-AI-Assistant",
     },
@@ -181,6 +184,7 @@ export const SkillsInfo = [
       image: npmLogo,
       tags: ["React JS","Node.js","Express","MongoDB"],
       github: "https://github.com/aryangithub02/E-Commerce-App",
+      webapp: "https://am-techstore.netlify.app/"
     },
     {
       id: 4,
