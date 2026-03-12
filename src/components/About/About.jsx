@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/Aryan_Motghare.png';
+import profileImage from '../../assets/Aryan_Motghare.jpg';
 
 const About = () => {
   return (
@@ -58,7 +58,7 @@ const About = () => {
               boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
             }}
           >
-            DOWNLOAD CV
+            DOWNLOAD RESUME
           </a>
           
         </div>
