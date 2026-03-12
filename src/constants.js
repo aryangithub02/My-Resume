@@ -146,38 +146,50 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: " AI Writing Assistant",
+      title: "AI Career Coach",
       description:
-       "A smart web application that generates emails, blogs , stories in multiple tones (formal, casual, friendly, professional) using genrative ai",
+        "An AI-based career guidance platform that helps students select career paths and improve employability. Features include personalized recommendations, resume analysis, skill gap detection, interview prep, and learning roadmaps.",
       image: githubdetLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API","Node js"],
-      github: "https://github.com/aryangithub02/Ai-writer-assistant",
+      tags: ["AI","React JS","Node.js","Tailwind CSS"],
+      github: "https://github.com/aryangithub02/AI-Career-Coach",
+      webapp: "https://aicareercoach-ijxq.vercel.app/"
     },
     {
       id: 1,
-      title: "Tech Quiz App",
+      title: "Nexora – Social Media Platform",
       description:
-        "A full-stack quiz-based platform designed for programmers / developers to practice technical questions and improve their preparation journey effectively.",
+        "A full-stack social networking app where users can create profiles, post content, follow others, and engage via likes and comments. Built with React front‑end and Node.js backend.",
       image: csprepLogo,
-      tags: ["React JS", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/aryangithub02/Quiz-app",
+      tags: ["React JS","Node.js","MongoDB","Express"],
+      github: "https://github.com/aryangithub02/Nexora",
+      webapp: "https://nexora-9vwj.vercel.app/"
     },
     {
       id: 2,
-      title: "Personal Budget Tracker",
+      title: "Visionary – AI Desktop Assistant",
       description:
-        "A React-based A web-based tool to help users manage their income, expenses, and savings effectively..",
+        "An AI automation agent capable of opening applications, accessing files, executing system commands, and responding to natural language instructions.",
       image: movierecLogo,
-      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/aryangithub02/Personal-Budget_Tracker",
+      tags: ["Electron","Python","AI","NLU"],
+      github: "https://github.com/aryangithub02/Visionary-AI-Assistant",
     },
     {
       id: 3,
-      title: "TRAFFIC SAFETY & GAMIFICATION WEB APP",
+      title: "E-Commerce Application",
       description:
-        "This web application is built to promote *public safety on roads by integrating real-time traffic route planning, live alerts,and gamification rewards for user engagement.",
+        "A full-stack online shopping platform featuring product catalogs, shopping cart, user authentication, order management, and search/filter functionality.",
       image: npmLogo,
-      tags: ["React JS","Handlebars", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/aryangithub02/Go-flow",
-    }
+      tags: ["React JS","Node.js","Express","MongoDB"],
+      github: "https://github.com/aryangithub02/E-Commerce-App",
+    },
+    {
+      id: 4,
+      title: "AI Writing Assistant",
+      description:
+        "A smart web application that generates emails, blogs, and stories in multiple tones (formal, casual, friendly, professional) using generative AI.",
+      image: githubdetLogo,
+      tags: ["HTML","CSS","JavaScript","React JS","API","Node.js"],
+      github: "https://github.com/aryangithub02/Ai-writer-assistant",
+      
+    },
   ];  
